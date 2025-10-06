@@ -4,7 +4,7 @@
 
 ## Sobre mim
 **`Desenvlvedor web fullstack`** <br> <br>
-Aficionado por ciência, tecnologia e inovação me encontrei dividido entre a engenharia elétrica e de software, mudei de rumo após projetos de web me mostrarem que poderia, nessa área, encontrar muito mais desafios assim como estar mais próximo dos avanços que vão revolucionar o mundo 🌎 
+Desenvolvedor web na IBM Brasil, 2 anos de experiência especializado em Quarkus e Angular. Estudante de Sistemas de Informação no CIN UFPE
 
 Hobbies e paixões:
 - Ar livre <a href="https://www.infoescola.com/wp-content/uploads/2010/04/vitamina-D2-calciferol.jpg">🏃<a>
